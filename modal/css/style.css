@@ -180,17 +180,12 @@ color: #6d6d6d;
     top: -8px;
     position: relative;
     text-decoration: none;
-
 }
-.ico :hover {
-    color: pink;
-}
-
 /* coloração dos contatos*/
-#w {
-    color: rgb(35, 168, 35);
+#l {
+    color: rgb(35, 37, 168);
 }
-.ico #w:hover{
+.ico #l:hover{
     color: rgb(104, 100, 100);
 } 
 #i {
@@ -198,7 +193,21 @@ color: #6d6d6d;
 }
 .ico #i:hover{
     color: rgb(104, 100, 100);
+}
+#g {
+    color: black;
 } 
+.ico #g:hover{
+    color: rgb(104, 100, 100);
+}
+/*Logo */
+   #ima:hover {
+    filter: sepia(90%);
+    
+}
+.alterar {
+    filter: grayscale(50%)
+}
  
 /*Estilo de letras*/
 .apr {
