@@ -89,6 +89,9 @@ color: #6d6d6d;
     animation: fechar 1.2s;
     opacity: 0.8;
 }
+.fechar:hover {
+    background: rgb(156, 154, 154);
+}
 
 .logo {
     cursor: pointer;
@@ -144,6 +147,9 @@ color: #6d6d6d;
     animation: fechar 1.2s;
     opacity: 0.8;
 }
+.fecharc:hover {
+    background: rgb(156, 154, 154);
+}
 
 /* Animação 3d */
 @keyframes modal {
@@ -184,6 +190,7 @@ color: #6d6d6d;
 /* coloração dos contatos*/
 #l {
     color: rgb(35, 37, 168);
+    font-size: clamp(0.5em, 0.5em + 1vw, 1.5em);
 }
 .ico #l:hover{
     color: rgb(104, 100, 100);
