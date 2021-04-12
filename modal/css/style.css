@@ -66,6 +66,7 @@ color: #6d6d6d;
     box-shadow: 7px 7px 7px 0 rgba(0, 0, 0, 0.3);
     position: relative;
     border-radius: 20px;
+    outline:none;
 }
 
 .mostrar .modal{
@@ -88,6 +89,7 @@ color: #6d6d6d;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.3);
     animation: fechar 1.2s;
     opacity: 0.8;
+    outline:none;
 }
 .fechar:hover {
     background: rgb(156, 154, 154);
@@ -123,6 +125,7 @@ color: #6d6d6d;
     box-shadow: 7px 7px 7px 0 rgba(0, 0, 0, 0.3);
     position: relative;
     border-radius: 20px;
+    outline:none;
     
 }
 
@@ -146,6 +149,7 @@ color: #6d6d6d;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.3);
     animation: fechar 1.2s;
     opacity: 0.8;
+    outline:none;
 }
 .fecharc:hover {
     background: rgb(156, 154, 154);
